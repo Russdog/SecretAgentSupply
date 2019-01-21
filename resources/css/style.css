@@ -1,0 +1,28 @@
+/* header */
+
+/* body {
+  font-family: arial;
+} */
+
+.head {
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: black;
+  align-items: center;
+  width: 100%;
+}
+
+.head img {
+  width: 43px;
+  height: 30px;
+  margin: 30px 30px 30px 140px;
+}
+
+.head span {
+  color: white;
+  font-family: arial;
+}
+
+.banner {
+  background-image: url("C:\Personal\Projects\SecretAgentSupply\resources\images\moto.jpg");
+}
